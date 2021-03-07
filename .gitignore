@@ -1,2 +1,4 @@
 DATA/
 ttpla_dataset/
+tests/lcnn
+custom/
