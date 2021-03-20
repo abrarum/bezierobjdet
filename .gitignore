@@ -1,4 +1,14 @@
+# root
 DATA/
 ttpla_dataset/
-tests/lcnn
 custom/
+
+# tests - lcnn
+tests/lcnn
+
+# tests - SDL
+tests/tf_begin/workspace/SDL/models/my_resnet/
+tests/tf_begin/workspace/SDL/pre-trained-models
+tests/tf_begin/workspace/SDL/models/my_resnet/train
+tests/tf_begin/workspace/SDL/models/my_resnet/eval
+tests/tf_begin/workspace/SDL/exported-models/my_model
