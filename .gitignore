@@ -1,14 +1,20 @@
 # root
-DATA/
-ttpla_dataset/
-custom/
+datasets/
 
-# tests - lcnn
-tests/lcnn
+# TESTS ----
 
-# tests - SDL
-tests/tf_begin/workspace/SDL/models/my_resnet/
-tests/tf_begin/workspace/SDL/pre-trained-models
-tests/tf_begin/workspace/SDL/models/my_resnet/train
-tests/tf_begin/workspace/SDL/models/my_resnet/eval
-tests/tf_begin/workspace/SDL/exported-models/my_model
+# tests - lcnn && fast
+TESTS/workspace/lcnn
+TESTS/workspace/fast
+
+# resnet
+TESTS/workspace/resnet/models/my_resnet/
+TESTS/workspace/resnet/models/my_resnet/train
+TESTS/workspace/resnet/models/my_resnet/eval
+
+# pre-trained-models
+TESTS/workspace/resnet/pre-trained-models
+
+# exported-models
+TESTS/workspace/resnet/exported-models/my_model/checkpoint
+TESTS/workspace/resnet/exported-models/my_model/saved_model/variables
