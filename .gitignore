@@ -21,3 +21,6 @@ TESTS/workspace/resnet/exported-models/my_model/saved_model/variables
 
 # indexer
 TESTS/workspace/mobile/index_old.ipynb
+
+#tutorial
+./tutorials
