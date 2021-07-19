@@ -1,5 +1,5 @@
 # ignore all
-*
+/*
 
 # but not this
-!BLD/
+!/BLD
