@@ -1,1 +1,0 @@
-for animation, use pygame: https://www.youtube.com/watch?v=H4wxX8niUQQ

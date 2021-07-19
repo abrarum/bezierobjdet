@@ -1,8 +1,8 @@
 # ignore all
-/datasets 
-/docs 
-/TESTS
-/tutorials
+datasets/* 
+docs/*
+TESTS/*
+tutorials/*
 
 # but not this
 !/BLD
