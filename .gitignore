@@ -1,26 +1,5 @@
-# root
-datasets/
+# ignore all
+*
 
-# TESTS ----
-
-# tests - lcnn && fast
-TESTS/workspace/lcnn
-TESTS/workspace/fast
-
-# resnet
-TESTS/workspace/resnet/models/my_resnet/
-TESTS/workspace/resnet/models/my_resnet/train
-TESTS/workspace/resnet/models/my_resnet/eval
-
-# pre-trained-models
-TESTS/workspace/resnet/pre-trained-models
-
-# exported-models
-TESTS/workspace/resnet/exported-models/my_model/checkpoint
-TESTS/workspace/resnet/exported-models/my_model/saved_model/variables
-
-# indexer
-TESTS/workspace/mobile/index_old.ipynb
-
-#tutorial
-./tutorials
+# but not this
+!BLD/
